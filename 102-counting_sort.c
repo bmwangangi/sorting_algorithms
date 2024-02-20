@@ -4,7 +4,7 @@
 /**
  * counting_sort - sorts an array of integers in
  * ascending order using Counting sort algorithm
- * print_array - prints an array of integers
+ * print_array - print an array of integers
  * @array: array of integers
  * @size: size of the array
  */
